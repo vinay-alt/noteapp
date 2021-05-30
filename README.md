@@ -6,7 +6,7 @@ It allows user to Add, update, View ,Delete and Search the Notes. The app provid
 
 It is built with Java, XML.
 
-Demo of the project : [NoteIt](https://youtu.be/JjjEpFphQBU)
+Demo of the project : [NoteIt](https://youtu.be/qSVbnBcnG4g)
 
 # UI Interface
 
