@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NoteIt</string>
+    <string name="title">this is the title</string>
+    <string name="description">this is the description</string>
+    <string name="title_add">Title</string>
+    <string name="desc_add">Description</string>
+    <string name="Add">Add Note</string>
+    <string name="update">Update Note</string>
+</resources>
